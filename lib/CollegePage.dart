@@ -47,7 +47,7 @@ class _CollegePageState extends State<CollegePage> {
               ),
               SizedBox(height: 10),
               Text(
-                'Ilmu Komputer | Teknik Informatika | S4.',
+                'Ilmu Komputer | Teknik Informatika | S5.',
                 style: TextStyle(
                   fontSize: 18,
                   color: Colors.white,
